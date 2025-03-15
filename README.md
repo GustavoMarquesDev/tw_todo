@@ -5,8 +5,8 @@ Esta é uma lista de tarefas feita em django voltada ao entendimento do fluxo de
 ## Funcionalidades
 
 - Adiciona tarefas
-- Remove
-- Ediata
+- Remover tarefas
+- Editar tarefas
 
 ## Requisitos
 
